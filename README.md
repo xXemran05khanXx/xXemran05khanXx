@@ -1,15 +1,51 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FB00&width=435&lines=Hey+there!+It's+Imran;Ready+to+collaborate%3F)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
 
-
-| **Category**            | **Technologies**                                                                                                                                                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
-| **Frontend Development** | [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev) [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
-| **Backend Development**  | [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)                                             |
-| **Databases**            | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)                                                                   |
-| **Cloud and DevOps**     | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) |
-
+<table style="border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;">
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud and DevOps</strong></td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source 
@@ -25,11 +61,3 @@
     alt="GitHub Activity Graph" 
   />
 </picture>
-
-
-
-
-
-
-
-
