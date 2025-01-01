@@ -2,52 +2,52 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
 
 <br> 
-<div style="padding-left:50px;" >
-<table style="border-collapse: collapse; width: 80%; margin: auto; padding: 10px; text-align: center">
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend Development</strong></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend Development</strong></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud and DevOps</strong></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table style="border-collapse: collapse; width: 80%; padding: 10px; text-align: center;">
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud and DevOps</strong></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
 
