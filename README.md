@@ -1,4 +1,5 @@
-![](https://metrics.lecoq.io/codeacg?template=classic&config.timezone=Asia%2FBeiJing)
+![](https://raw.githubusercontent.com/codeacg/codeacg/main/assets/github-contribution-grid-snake.svg)
+
 
 <table>
   <tr>
