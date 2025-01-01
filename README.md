@@ -2,10 +2,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
 
 <br> 
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 3;">
-    <table style="border-collapse: collapse; width: 80%; padding: 10px; text-align: center;">
+    <table align="center" style="border-collapse: collapse; width: 80%;">
       <tr>
         <td><strong>Programming Languages</strong></td>
         <td>
@@ -50,8 +47,7 @@
         </td>
       </tr>
     </table>
-  </div>
-</div>
+<p "></p>
 
 <br>
 
