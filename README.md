@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
 
 <br> 
-<table style="border-collapse: collapse; width: 80%; margin: auto; text-align: center">
+<div style="padding-left:50px;" >
+<table style="border-collapse: collapse; width: 80%; margin: auto; padding: 10px; text-align: center">
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
@@ -47,6 +48,7 @@
     </td>
   </tr>
 </table>
+</div>
 <br>
 
 <picture>
