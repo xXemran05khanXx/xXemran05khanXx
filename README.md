@@ -71,8 +71,9 @@
 <!-- GitHub Stats Card -->
 <br>
 <div align="right">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=xXemran05khanXx&theme=transparent&layout=donut&hide=css&langs_count=4&border_radius=30&show_icons=true&locale=en" alt="xXemran05khanXx's Most Used Languages" />    
+ <img  alt="xXemran05khanXx's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xXemran05khanXx?cardType=github&theme=github-dark&showIcons=false&preferLogin=true&Title=00ED01&Ring=00ED01" />  </a>
 </div>
+<br>
 
 <!-- GitHub Activity Graph -->
 <picture>
