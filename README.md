@@ -65,12 +65,6 @@
 
 </table>
 
-<!-- GitHub Stats Card -->
-<br>
-<div align="right">
- <img  alt="xXemran05khanXx's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/xXemran05khanXx?cardType=github&theme=github-dark&showIcons=false&preferLogin=true&Title=00ED01&Ring=00ED01" />  </a>
-</div>
-<br>
 
 <!-- GitHub Activity Graph -->
 <picture>
