@@ -1,5 +1,6 @@
 <!-- Typing SVG Animation and Laptop Emoji -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FB00&width=435&lines=Hey+there!+It's+Imran;Ready+to+collaborate%3F)](https://git.io/typing-svg)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FB00&width=435&lines=Hey+there!+It's+Imran;Ready+to+collaborate%3F)](https://git.io/typing-svg)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="150" height="150" />
+
 
 <!-- Programming Skills Table -->
 <br>
@@ -65,19 +66,5 @@
 
 </table>
 
-
 <!-- GitHub Activity Graph -->
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xXemran05khanXx&theme=xcode&bg_color=transparent&color=00FF00&hide_border=true" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=xXemran05khanXx&theme=xcode&bg_color=transparent&color=00FF00&hide_border=true" 
-  />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=xXemran05khanXx&theme=xcode&bg_color=transparent&color=00FF00&hide_border=true" 
-    alt="GitHub Activity Graph" 
-  />
-</picture>
+![xXemran05khanXx GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=xXemran05khanXx)
