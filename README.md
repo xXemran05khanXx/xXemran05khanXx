@@ -66,5 +66,9 @@
 
 </table>
 
+<br>
+
 <!-- GitHub Activity Graph -->
-![xXemran05khanXx GitHub Stats](https://stats.dooboo.io/api/github-stats-advanced?login=xXemran05khanXx)
+<img align="right" src="https://stats.dooboo.io/api/github-stats-advanced?login=xXemran05khanXx" width="480" />
+
+
