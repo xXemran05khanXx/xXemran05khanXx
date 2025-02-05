@@ -68,7 +68,5 @@
 
 <br>
 
-<!-- GitHub Activity Graph -->
-<img align="right" src="https://stats.dooboo.io/api/github-stats-advanced?login=xXemran05khanXx" width="480" />
 
 
